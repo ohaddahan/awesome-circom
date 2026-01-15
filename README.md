@@ -48,6 +48,7 @@
 - [vim plugin](https://github.com/iden3/vim-circom-syntax) - Vim syntax highlighting plugin
 - [Shield Cli](https://github.com/xorddotcom/SHIELD) - SHIELD is a development framework for circom developers. SHIELD is a tool to provide libraries, plugins, and testing tools to ensure code quality and security.
 - [Circomspect](https://github.com/trailofbits/circomspect) - static analyzer and linter for the Circom programming language
+- [JetBrains Circom Language Support](https://plugins.jetbrains.com/plugin/29751-circom-language-support) - Syntax highlight and extended context ([Source Code](https://github.com/ZKLSOL/JetBrains-Circom-Syntax-Highlight-Plugin))
 
 ## Tutorials & docs
 - [docs.circom.io](https://docs.circom.io/) - official Circom docs
